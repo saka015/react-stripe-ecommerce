@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "T shirt",
+    "price": 499
+  },
+  {
+    "id": 2,
+    "name": "Jeans",
+    "price": 799
+  },
+  {
+    "id": 3,
+    "name": "Sneakers",
+    "price": 599
+  },
+  {
+    "id": 4,
+    "name": "Dress",
+    "price": 999
+  },
+  {
+    "id": 5,
+    "name": "Watch",
+    "price": 299
+  },
+  {
+    "id": 6,
+    "name": "Backpack",
+    "price": 899
+  },
+  {
+    "id": 7,
+    "name": "Hat",
+    "price": 199
+  },
+  {
+    "id": 8,
+    "name": "Sunglasses",
+    "price": 399
+  },
+  {
+    "id": 9,
+    "name": "Shoes",
+    "price": 699
+  },
+  {
+    "id": 10,
+    "name": "Skirt",
+    "price": 599
+  },
+  {
+    "id": 11,
+    "name": "Jacket",
+    "price": 1199
+  },
+  {
+    "id": 12,
+    "name": "Belt",
+    "price": 149
+  },
+  {
+    "id": 13,
+    "name": "Scarf",
+    "price": 249
+  },
+  {
+    "id": 14,
+    "name": "Gloves",
+    "price": 99
+  },
+  {
+    "id": 15,
+    "name": "Sweater",
+    "price": 599
+  },
+  {
+    "id": 16,
+    "name": "Shorts",
+    "price": 399
+  },
+  {
+    "id": 17,
+    "name": "Socks",
+    "price": 49
+  },
+  {
+    "id": 18,
+    "name": "Pants",
+    "price": 699
+  },
+  {
+    "id": 19,
+    "name": "Hat",
+    "price": 199
+  },
+  {
+    "id": 20,
+    "name": "Slippers",
+    "price": 299
+  }
+]
